@@ -6,18 +6,6 @@ Open SMS is an open source Android SMS.
 
 This is an Android Studio project written in Java.
 
-# Roadmap
-
-Implement the following:
-- Message sending to a recipient
-- Message scheduling
-
-## Contributing
-
-Open SMS is an **extremely** young project, so any contributions you 
-
-make are greatly appreciated!
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
