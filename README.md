@@ -1,6 +1,6 @@
 # Open SMS
 
-Open SMS is an open source Android SMS.
+Open SMS is an Android SMS app I created when was first learning how Android messaging worked.
 
 # Built With
 
